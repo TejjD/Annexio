@@ -1,16 +1,29 @@
 {
   "version": 2,
-  "dgSpecHash": "9t5X1RNU4GTFfAhZwLpBvF5ox9jm6kjsuJivqg7yuQPeIYXOU+K/bbqnnu7YR8TazYucR6CYdHjAMNk/GQtMwA==",
+  "dgSpecHash": "S345S01TOU7hJmnBkWIeNz4XnarnoQaTreNpkQactgZnh+DB97P9dB63HL8dRiTcQKyKRBiRzM9TzQBFizPsnA==",
   "success": true,
   "projectFilePath": "C:\\Users\\tejas\\Documents\\Annexio_Assessment\\Annexio_Assessment\\Annexio_Assessment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tejas\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0-preview.4.22251.1\\microsoft.aspnetcore.openapi.7.0.0-preview.4.22251.1.nupkg.sha512",
     "C:\\Users\\tejas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\tejas\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0-preview.4.22229.4\\microsoft.extensions.caching.abstractions.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\tejas\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-preview.4.22229.4\\microsoft.extensions.caching.memory.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\tejas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-preview.4.22229.4\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\tejas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-preview.4.22229.4\\microsoft.extensions.logging.abstractions.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\tejas\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-preview.4.22229.4\\microsoft.extensions.options.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\tejas\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.4.22229.4\\microsoft.extensions.primitives.7.0.0-preview.4.22229.4.nupkg.sha512",
     "C:\\Users\\tejas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tejas\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0-preview.4.22229.4\\microsoft.win32.systemevents.7.0.0-preview.4.22229.4.nupkg.sha512",
     "C:\\Users\\tejas\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\tejas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\tejas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\tejas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\tejas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\tejas\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0-preview.4.22229.4\\system.configuration.configurationmanager.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\tejas\\.nuget\\packages\\system.drawing.common\\7.0.0-preview.4.22229.4\\system.drawing.common.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\tejas\\.nuget\\packages\\system.runtime.caching\\7.0.0-preview.4.22229.4\\system.runtime.caching.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\tejas\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0-preview.4.22229.4\\system.security.cryptography.protecteddata.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\tejas\\.nuget\\packages\\system.security.permissions\\7.0.0-preview.4.22229.4\\system.security.permissions.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\tejas\\.nuget\\packages\\system.windows.extensions\\7.0.0-preview.4.22229.4\\system.windows.extensions.7.0.0-preview.4.22229.4.nupkg.sha512"
   ],
   "logs": []
 }

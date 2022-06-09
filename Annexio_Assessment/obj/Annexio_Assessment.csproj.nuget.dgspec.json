@@ -42,9 +42,17 @@
               "target": "Package",
               "version": "[7.0.0-preview.4.22251.1, )"
             },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[7.0.0-preview.4.22229.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "System.Runtime.Caching": {
+              "target": "Package",
+              "version": "[7.0.0-preview.4.22229.4, )"
             }
           },
           "imports": [
