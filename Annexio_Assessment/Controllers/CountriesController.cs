@@ -23,13 +23,14 @@ public class CountriesController : ControllerBase
     [HttpGet(Name = "GetCountries")]
     public async Task<string?> Get()
     {
+        DateTime now = DateTime.Now;
         if (_cache.TryGetValue(CountryListCacheKey, out string? msg))
         {
-            _logger.Log(LogLevel.Information, "Country list found in cache");
+            _logger.Log(LogLevel.Information,now + ": Country list found in cache");
         }
         else
         {
-            _logger.Log(LogLevel.Information, "Country list not found in cache. Fetching from database");
+            _logger.Log(LogLevel.Information, now + ":Country list not found in cache. Fetching from api");
             var stringTask = Client.GetStringAsync("https://restcountries.com/v2/all");
             msg = await stringTask;
             var cacheEntryOptions = new MemoryCacheEntryOptions()
